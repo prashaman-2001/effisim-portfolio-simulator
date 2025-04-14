@@ -1,7 +1,8 @@
 streamlit
 yfinance
-numpy
 pandas
+numpy
+seaborn
+matplotlib
 plotly
 fredapi
-seaborn
